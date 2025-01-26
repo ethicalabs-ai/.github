@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-Welcome to **ethicalabs.ai**! This is where I focus on building ethical, sustainable and efficient AI solutions.
+Welcome to **ethicalabs.ai**! This is where I focus on building ethical, sustainable and efficient AI/ML solutions.
 
 ---
 
