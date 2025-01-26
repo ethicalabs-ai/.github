@@ -17,7 +17,7 @@ Welcome to **ethicalabs.ai**! This is where I focus on building ethical, efficie
 
 ## 🌈 Get Involved  
 
-- **Explore the Projects**: Check out repositories like [kurtis]([https://link-url-here.org](https://github.com/ethicalabs-ai/kurtis)) and FlowerTune LLM Leaderboard contributions.  
+- **Explore the Projects**: Check out repositories like [https://github.com/ethicalabs-ai/kurtis](kurtis) and FlowerTune LLM Leaderboard contributions.  
 - **Feedback Welcome**: Spot an issue or have suggestions? Open an issue and let’s collaborate!
 
 ---
