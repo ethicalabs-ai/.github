@@ -7,7 +7,6 @@ Welcome to **ethicalabs.ai**! This is where I focus on building ethical, efficie
 ## 🌟 What I’m Working On  
 
 - **Responsible AI/ML**: Building tools that prioritize fairness, privacy, and transparency.  
-- **Power-Efficient Models**: Optimizing AI/ML workflows for low-resource environments and minimal energy consumption.  
 - **Privacy and Security**: Embedding robust safeguards and secure data handling practices to protect sensitive information and ensure compliance with privacy standards.  
 - **Developer Experience**: Streamlining processes with well-documented tools, clear workflows, and automation to help developers focus on what matters.  
 - **DevOps and MLOps**: Creating scalable, reliable, and repeatable pipelines for projects deployment and experimentation.  
