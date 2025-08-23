@@ -24,7 +24,7 @@ This reflects my commitment to ethical principles, not just in technology but al
 
 ## 🌈 Get Involved  
 
-- **Explore the Projects**: Check out repositories like [kurtis](https://github.com/ethicalabs-ai/kurtis) and FlowerTune LLM Leaderboard contributions.  
+- **Explore the Projects**: Check out repositories like [SkinCancerViT](https://github.com/ethicalabs-ai/SkinCancerViT) and [FlowerTune LLM Leaderboard](https://github.com/ethicalabs-ai/FlowerTune-LLM-Labs) contributions.
 - **Feedback Welcome**: Spot an issue or have suggestions? Open an issue and let’s collaborate!
 
 ---
