@@ -32,3 +32,8 @@ This reflects my commitment to ethical principles, not just in technology but al
 ## 🔐 A Practical Approach  
 
 I believe in merging AI principles with a strong ethical foundation to deliver solutions that are effective, sustainable, and trustworthy. Let’s build something meaningful together!
+
+---
+Support Ethicalabs.ai!
+**Open Collective** [https://opencollective.com/ethicalabs-ai](https://opencollective.com/ethicalabs-ai)
+**GitHub Sponsors** [https://github.com/sponsors/ethicalabs-ai](https://github.com/sponsors/ethicalabs-ai)
